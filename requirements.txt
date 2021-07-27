@@ -1,6 +1,6 @@
-altair==4.1.0
-streamlit==0.80.0
-yfinance==0.1.59
+altair
+streamlit
+yfinance
 
 
 
